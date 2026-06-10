@@ -1,2 +1,2 @@
-Git is a version control system.
-I am learning GitHub.
+Git staging helps track selected changes.
+Learning Git staging concepts.
