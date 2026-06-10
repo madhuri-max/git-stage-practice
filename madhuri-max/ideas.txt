@@ -1,0 +1,6 @@
+Website Improvement Ideas
+
+- Add testimonials section
+- Improve footer design
+- Add contact form
+- Enhance mobile responsiveness
